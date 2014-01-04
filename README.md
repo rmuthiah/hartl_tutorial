@@ -1,1 +1,1 @@
-Tutorial for ruby on rails from railstutorial.org from Michael Hartl
+This is the first app for [*Ruby on Rails Tutorial*](https://railstutorial.org) by Hartl
